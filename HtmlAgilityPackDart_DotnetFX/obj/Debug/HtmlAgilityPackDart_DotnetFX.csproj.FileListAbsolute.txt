@@ -1,0 +1,11 @@
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPackDart_DotnetFX.exe.config
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPackDart_DotnetFX.exe
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPackDart_DotnetFX.pdb
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPack.dll
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPack.pdb
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\bin\Debug\HtmlAgilityPack.xml
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\obj\Debug\HtmlAgilityPackDart_DotnetFX.csprojAssemblyReference.cache
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\obj\Debug\HtmlAgilityPackDart_DotnetFX.csproj.CoreCompileInputs.cache
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\obj\Debug\HtmlAgilityPackDart_DotnetFX.csproj.CopyComplete
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\obj\Debug\HtmlAgilityPackDart_DotnetFX.exe
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart_DotnetFX\obj\Debug\HtmlAgilityPackDart_DotnetFX.pdb

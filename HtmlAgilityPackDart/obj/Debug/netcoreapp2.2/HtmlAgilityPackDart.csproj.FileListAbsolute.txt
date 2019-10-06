@@ -1,0 +1,11 @@
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\bin\Debug\netcoreapp2.2\HtmlAgilityPackDart.deps.json
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\bin\Debug\netcoreapp2.2\HtmlAgilityPackDart.runtimeconfig.json
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\bin\Debug\netcoreapp2.2\HtmlAgilityPackDart.runtimeconfig.dev.json
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\bin\Debug\netcoreapp2.2\HtmlAgilityPackDart.dll
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.csprojAssemblyReference.cache
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.csproj.CoreCompileInputs.cache
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.AssemblyInfoInputs.cache
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.AssemblyInfo.cs
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\bin\Debug\netcoreapp2.2\HtmlAgilityPackDart.pdb
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.dll
+D:\ML\HtmlAgilityPackDart\HtmlAgilityPackDart\obj\Debug\netcoreapp2.2\HtmlAgilityPackDart.pdb

@@ -20,3 +20,10 @@ Console.WriteLine($"KB국민은행 제공하는 오늘의 미달러 환율은 : 
 
 Console.ReadKey();
 ```
+
+```
+import pandas as pd
+url ='https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EC%A1%B0%ED%9A%8C'
+tables = pd.read_html(url)
+tables[1].loc[0,"매매기준율"]
+```
